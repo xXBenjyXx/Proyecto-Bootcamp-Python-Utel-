@@ -20,7 +20,7 @@ muestra el nombre del programa para que el usuario sepa que podemos calcular su 
 Apartir de la Linea 45 y hasta la 115 del codigo estaremos pidiendo al usuario que
 ingrese sus datos.
 estos datos son:
-Nombre, Apellido paterno, aellido materno, su peso, edad y su altura.
+Nombre, apellido paterno, apellido materno, su peso, edad y su altura.
 
 Utilizamos "While True" para crear un ciclo por cada dato ingresado.
 Usando "Try y execpt" para manejar los errores: 
